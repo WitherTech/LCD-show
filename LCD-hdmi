@@ -7,4 +7,3 @@ else
 sudo cp ./usr/cmdline.txt /boot/
 fi
 sudo cp ./usr/inittab /etc/
-sudo reboot
